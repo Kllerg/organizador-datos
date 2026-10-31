@@ -140,6 +140,13 @@
    "rol": "Tank",
    "categoria": "prueba",
    "imagen": "cartas/L002.webp"
+  },
+  {
+   "id": "L003",
+   "nombre": "Photocard 21",
+   "rol": "DPS",
+   "categoria": "prueba",
+   "imagen": "cartas/L003.webp"
   }
  ]
 }
