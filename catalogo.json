@@ -6,6 +6,11 @@
    "nombre": "Photocard 01",
    "rol": "DPS",
    "categoria": "prueba",
+   "elemento": "Vocal",
+   "etiquetas": [
+    "Debut"
+   ],
+   "pasiva": "cazajefes",
    "imagen": "cartas/C001.webp"
   },
   {
@@ -13,6 +18,11 @@
    "nombre": "Photocard 02",
    "rol": "Tank",
    "categoria": "prueba",
+   "elemento": "Baile",
+   "etiquetas": [
+    "Escenario"
+   ],
+   "pasiva": "aguante",
    "imagen": "cartas/C002.webp"
   },
   {
@@ -20,6 +30,11 @@
    "nombre": "Photocard 03",
    "rol": "Support",
    "categoria": "prueba",
+   "elemento": "Rap",
+   "etiquetas": [
+    "Casual"
+   ],
+   "pasiva": "fortuna",
    "imagen": "cartas/C003.webp"
   },
   {
@@ -27,6 +42,11 @@
    "nombre": "Photocard 04",
    "rol": "DPS",
    "categoria": "prueba",
+   "elemento": "Visual",
+   "etiquetas": [
+    "Debut"
+   ],
+   "pasiva": "filo",
    "imagen": "cartas/C004.webp"
   },
   {
@@ -34,6 +54,11 @@
    "nombre": "Photocard 05",
    "rol": "Tank",
    "categoria": "prueba",
+   "elemento": "Carisma",
+   "etiquetas": [
+    "Escenario"
+   ],
+   "pasiva": "coraza",
    "imagen": "cartas/C005.webp"
   },
   {
@@ -41,6 +66,11 @@
    "nombre": "Photocard 06",
    "rol": "Support",
    "categoria": "prueba",
+   "elemento": "Vocal",
+   "etiquetas": [
+    "Casual"
+   ],
+   "pasiva": "inspirar",
    "imagen": "cartas/C006.webp"
   },
   {
@@ -48,6 +78,11 @@
    "nombre": "Photocard 07",
    "rol": "DPS",
    "categoria": "prueba",
+   "elemento": "Baile",
+   "etiquetas": [
+    "Debut"
+   ],
+   "pasiva": "cazajefes",
    "imagen": "cartas/C007.webp"
   },
   {
@@ -55,6 +90,11 @@
    "nombre": "Photocard 08",
    "rol": "Tank",
    "categoria": "prueba",
+   "elemento": "Rap",
+   "etiquetas": [
+    "Escenario"
+   ],
+   "pasiva": "aguante",
    "imagen": "cartas/C008.webp"
   },
   {
@@ -62,6 +102,11 @@
    "nombre": "Photocard 09",
    "rol": "Support",
    "categoria": "prueba",
+   "elemento": "Visual",
+   "etiquetas": [
+    "Casual"
+   ],
+   "pasiva": "fortuna",
    "imagen": "cartas/C009.webp"
   },
   {
@@ -69,6 +114,11 @@
    "nombre": "Photocard 10",
    "rol": "DPS",
    "categoria": "prueba",
+   "elemento": "Carisma",
+   "etiquetas": [
+    "Debut"
+   ],
+   "pasiva": "filo",
    "imagen": "cartas/C010.webp"
   },
   {
@@ -76,6 +126,11 @@
    "nombre": "Photocard 16",
    "rol": "DPS",
    "categoria": "prueba",
+   "elemento": "Rap",
+   "etiquetas": [
+    "Casual"
+   ],
+   "pasiva": "cazajefes",
    "imagen": "cartas/R001.webp"
   },
   {
@@ -83,6 +138,11 @@
    "nombre": "Photocard 17",
    "rol": "Tank",
    "categoria": "prueba",
+   "elemento": "Visual",
+   "etiquetas": [
+    "Debut"
+   ],
+   "pasiva": "aguante",
    "imagen": "cartas/R002.webp"
   },
   {
@@ -90,6 +150,11 @@
    "nombre": "Photocard 18",
    "rol": "Support",
    "categoria": "prueba",
+   "elemento": "Carisma",
+   "etiquetas": [
+    "Escenario"
+   ],
+   "pasiva": "fortuna",
    "imagen": "cartas/R003.webp"
   },
   {
@@ -97,6 +162,11 @@
    "nombre": "Photocard 11",
    "rol": "Tank",
    "categoria": "prueba",
+   "elemento": "Carisma",
+   "etiquetas": [
+    "Escenario"
+   ],
+   "pasiva": "coraza",
    "imagen": "cartas/E001.webp"
   },
   {
@@ -104,6 +174,11 @@
    "nombre": "Photocard 12",
    "rol": "Support",
    "categoria": "prueba",
+   "elemento": "Vocal",
+   "etiquetas": [
+    "Casual"
+   ],
+   "pasiva": "inspirar",
    "imagen": "cartas/E002.webp"
   },
   {
@@ -111,6 +186,11 @@
    "nombre": "Photocard 13",
    "rol": "DPS",
    "categoria": "prueba",
+   "elemento": "Baile",
+   "etiquetas": [
+    "Debut"
+   ],
+   "pasiva": "cazajefes",
    "imagen": "cartas/E003.webp"
   },
   {
@@ -118,6 +198,11 @@
    "nombre": "Photocard 14",
    "rol": "Tank",
    "categoria": "prueba",
+   "elemento": "Rap",
+   "etiquetas": [
+    "Escenario"
+   ],
+   "pasiva": "aguante",
    "imagen": "cartas/E004.webp"
   },
   {
@@ -125,6 +210,11 @@
    "nombre": "Photocard 15",
    "rol": "Support",
    "categoria": "prueba",
+   "elemento": "Visual",
+   "etiquetas": [
+    "Casual"
+   ],
+   "pasiva": "fortuna",
    "imagen": "cartas/E005.webp"
   },
   {
@@ -132,6 +222,11 @@
    "nombre": "Photocard 19",
    "rol": "DPS",
    "categoria": "prueba",
+   "elemento": "Baile",
+   "etiquetas": [
+    "Escenario"
+   ],
+   "pasiva": "cazajefes",
    "imagen": "cartas/L001.webp"
   },
   {
@@ -139,6 +234,11 @@
    "nombre": "Photocard 20",
    "rol": "Tank",
    "categoria": "prueba",
+   "elemento": "Rap",
+   "etiquetas": [
+    "Casual"
+   ],
+   "pasiva": "aguante",
    "imagen": "cartas/L002.webp"
   },
   {
@@ -146,6 +246,11 @@
    "nombre": "Photocard 21",
    "rol": "DPS",
    "categoria": "prueba",
+   "elemento": "Visual",
+   "etiquetas": [
+    "Debut"
+   ],
+   "pasiva": "cazajefes",
    "imagen": "cartas/L003.webp"
   }
  ]

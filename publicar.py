@@ -5,6 +5,8 @@ import csv, datetime, hashlib, json, os, sys
 base = os.path.dirname(os.path.abspath(__file__))
 RAREZAS = {"C": "Común", "R": "Rara", "E": "Épica", "L": "Legendaria"}
 ROLES = {"Tank", "DPS", "Support"}
+ELEMENTOS = {"Vocal", "Baile", "Rap", "Visual", "Carisma"}
+PASIVAS = {"aguante", "filo", "coraza", "inspirar", "fortuna", "cazajefes"}
 errores = []
 
 # --- cartas ---
@@ -18,13 +20,19 @@ with open(os.path.join(base, "cartas.csv"), encoding="utf-8-sig", newline="") as
             errores.append(f"cartas.csv fila {n}: faltan columnas"); continue
         cid, nombre, rol = r[0], r[1], r[2]
         cat = r[3] if len(r) > 3 else ""
+        elem = r[5] if len(r) > 5 else ""          # columnas nuevas (opcionales): si están vacías el juego las asigna solo
+        etqs = [t.strip() for t in r[6].split("|") if t.strip()] if len(r) > 6 else []
+        pas = r[7] if len(r) > 7 else ""
         if cid[:1] not in RAREZAS: errores.append(f"{cid}: el prefijo debe ser C, R, E o L")
         if cid in vistos: errores.append(f"{cid}: id repetido")
         if rol not in ROLES: errores.append(f"{cid}: rol '{rol}' no válido")
+        if elem and elem not in ELEMENTOS: errores.append(f"{cid}: elemento '{elem}' no válido (usa {', '.join(sorted(ELEMENTOS))})")
+        if pas and pas not in PASIVAS: errores.append(f"{cid}: pasiva '{pas}' no válida (usa {', '.join(sorted(PASIVAS))})")
         if not os.path.exists(os.path.join(base, "cartas", cid + ".webp")):
             errores.append(f"{cid}: falta cartas/{cid}.webp")
         vistos.add(cid)
-        cartas.append({"id": cid, "nombre": nombre, "rol": rol, "categoria": cat, "imagen": f"cartas/{cid}.webp"})
+        cartas.append({"id": cid, "nombre": nombre, "rol": rol, "categoria": cat, "elemento": elem,
+                       "etiquetas": etqs, "pasiva": pas, "imagen": f"cartas/{cid}.webp"})
 
 # --- banners ---
 with open(os.path.join(base, "banners.json"), encoding="utf-8") as f:
