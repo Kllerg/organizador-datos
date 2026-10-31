@@ -1,0 +1,21 @@
+id,nombre,rol,categoria,archivo
+C001,Photocard 01,DPS,prueba,Comun/pc_01.jpg
+C002,Photocard 02,Tank,prueba,Comun/pc_02.jpg
+C003,Photocard 03,Support,prueba,Comun/pc_03.jpg
+C004,Photocard 04,DPS,prueba,Comun/pc_04.jpg
+C005,Photocard 05,Tank,prueba,Comun/pc_05.jpg
+C006,Photocard 06,Support,prueba,Comun/pc_06.jpg
+C007,Photocard 07,DPS,prueba,Comun/pc_07.jpg
+C008,Photocard 08,Tank,prueba,Comun/pc_08.jpg
+C009,Photocard 09,Support,prueba,Comun/pc_09.jpg
+C010,Photocard 10,DPS,prueba,Comun/pc_10.jpg
+R001,Photocard 16,DPS,prueba,Rara/pc_16.jpg
+R002,Photocard 17,Tank,prueba,Rara/pc_17.jpg
+R003,Photocard 18,Support,prueba,Rara/pc_18.jpg
+E001,Photocard 11,Tank,prueba,Epica/pc_11.jpg
+E002,Photocard 12,Support,prueba,Epica/pc_12.jpg
+E003,Photocard 13,DPS,prueba,Epica/pc_13.jpg
+E004,Photocard 14,Tank,prueba,Epica/pc_14.jpg
+E005,Photocard 15,Support,prueba,Epica/pc_15.jpg
+L001,Photocard 19,DPS,prueba,Legendaria/pc_19.jpg
+L002,Photocard 20,Tank,prueba,Legendaria/pc_20.jpg

@@ -1,0 +1,145 @@
+{
+ "schema": 1,
+ "cartas": [
+  {
+   "id": "C001",
+   "nombre": "Photocard 01",
+   "rol": "DPS",
+   "categoria": "prueba",
+   "imagen": "cartas/C001.webp"
+  },
+  {
+   "id": "C002",
+   "nombre": "Photocard 02",
+   "rol": "Tank",
+   "categoria": "prueba",
+   "imagen": "cartas/C002.webp"
+  },
+  {
+   "id": "C003",
+   "nombre": "Photocard 03",
+   "rol": "Support",
+   "categoria": "prueba",
+   "imagen": "cartas/C003.webp"
+  },
+  {
+   "id": "C004",
+   "nombre": "Photocard 04",
+   "rol": "DPS",
+   "categoria": "prueba",
+   "imagen": "cartas/C004.webp"
+  },
+  {
+   "id": "C005",
+   "nombre": "Photocard 05",
+   "rol": "Tank",
+   "categoria": "prueba",
+   "imagen": "cartas/C005.webp"
+  },
+  {
+   "id": "C006",
+   "nombre": "Photocard 06",
+   "rol": "Support",
+   "categoria": "prueba",
+   "imagen": "cartas/C006.webp"
+  },
+  {
+   "id": "C007",
+   "nombre": "Photocard 07",
+   "rol": "DPS",
+   "categoria": "prueba",
+   "imagen": "cartas/C007.webp"
+  },
+  {
+   "id": "C008",
+   "nombre": "Photocard 08",
+   "rol": "Tank",
+   "categoria": "prueba",
+   "imagen": "cartas/C008.webp"
+  },
+  {
+   "id": "C009",
+   "nombre": "Photocard 09",
+   "rol": "Support",
+   "categoria": "prueba",
+   "imagen": "cartas/C009.webp"
+  },
+  {
+   "id": "C010",
+   "nombre": "Photocard 10",
+   "rol": "DPS",
+   "categoria": "prueba",
+   "imagen": "cartas/C010.webp"
+  },
+  {
+   "id": "R001",
+   "nombre": "Photocard 16",
+   "rol": "DPS",
+   "categoria": "prueba",
+   "imagen": "cartas/R001.webp"
+  },
+  {
+   "id": "R002",
+   "nombre": "Photocard 17",
+   "rol": "Tank",
+   "categoria": "prueba",
+   "imagen": "cartas/R002.webp"
+  },
+  {
+   "id": "R003",
+   "nombre": "Photocard 18",
+   "rol": "Support",
+   "categoria": "prueba",
+   "imagen": "cartas/R003.webp"
+  },
+  {
+   "id": "E001",
+   "nombre": "Photocard 11",
+   "rol": "Tank",
+   "categoria": "prueba",
+   "imagen": "cartas/E001.webp"
+  },
+  {
+   "id": "E002",
+   "nombre": "Photocard 12",
+   "rol": "Support",
+   "categoria": "prueba",
+   "imagen": "cartas/E002.webp"
+  },
+  {
+   "id": "E003",
+   "nombre": "Photocard 13",
+   "rol": "DPS",
+   "categoria": "prueba",
+   "imagen": "cartas/E003.webp"
+  },
+  {
+   "id": "E004",
+   "nombre": "Photocard 14",
+   "rol": "Tank",
+   "categoria": "prueba",
+   "imagen": "cartas/E004.webp"
+  },
+  {
+   "id": "E005",
+   "nombre": "Photocard 15",
+   "rol": "Support",
+   "categoria": "prueba",
+   "imagen": "cartas/E005.webp"
+  },
+  {
+   "id": "L001",
+   "nombre": "Photocard 19",
+   "rol": "DPS",
+   "categoria": "prueba",
+   "imagen": "cartas/L001.webp"
+  },
+  {
+   "id": "L002",
+   "nombre": "Photocard 20",
+   "rol": "Tank",
+   "categoria": "prueba",
+   "imagen": "cartas/L002.webp"
+  }
+ ]
+}

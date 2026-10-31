@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "banners": [
+    {
+      "id": "inicio",
+      "nombre": "Banner de inicio",
+      "inicio": "2026-01-01",
+      "fin": "2099-12-31",
+      "destacada": "L001",
+      "delanteras": ["E001", "L002"],
+      "color_banner": "#1a1235",
+      "color_acento": "#ffd166",
+      "probabilidades": {"Común": 60.0, "Rara": 28.0, "Épica": 9.0, "Legendaria": 3.0},
+      "costo_1": 10,
+      "costo_10": 100
+    }
+  ]
+}
