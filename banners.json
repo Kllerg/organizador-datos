@@ -7,10 +7,39 @@
       "inicio": "2026-01-01",
       "fin": "2099-12-31",
       "destacada": "L001",
-      "delanteras": ["E001", "L002"],
+      "delanteras": [
+        "E001",
+        "L002"
+      ],
       "color_banner": "#1a1235",
       "color_acento": "#ffd166",
-      "probabilidades": {"Común": 60.0, "Rara": 28.0, "Épica": 9.0, "Legendaria": 3.0},
+      "probabilidades": {
+        "Común": 60.0,
+        "Rara": 28.0,
+        "Épica": 9.0,
+        "Legendaria": 3.0
+      },
+      "costo_1": 10,
+      "costo_10": 100
+    },
+    {
+      "id": "nueva-21",
+      "nombre": "Estreno: Photocard 21",
+      "inicio": "2026-10-31",
+      "fin": "2026-11-14",
+      "destacada": "L003",
+      "delanteras": [
+        "L001",
+        "E001"
+      ],
+      "color_banner": "#0f2a2e",
+      "color_acento": "#6fe3ff",
+      "probabilidades": {
+        "Común": 55.0,
+        "Rara": 28.0,
+        "Épica": 11.0,
+        "Legendaria": 6.0
+      },
       "costo_1": 10,
       "costo_10": 100
     }
